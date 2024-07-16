@@ -1,5 +1,9 @@
 # 术力口工具箱
 
+这里也记录一下嘿嘿
+
+![image-20240716121540541](https://rean-blog-bucket.oss-cn-guangzhou.aliyuncs.com/assets/img/image-20240716121540541.png)
+
 ## 功能
 
 ### 自动检测曲速、调性
